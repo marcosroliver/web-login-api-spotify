@@ -19,7 +19,7 @@ Este conector está configurado para devolver os dados para a <b>porta http://lo
 
 Caso sua aplicação esteja em outra porta configure o redirect no aquivo server.js conforme imagem abaixo:
 
-incluir imagem
+![](https://github.com/marcosroliver/web-login-api-spotify/blob/master/image.png)
 
 
 ## Rodando a aplicação
